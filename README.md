@@ -293,7 +293,7 @@ Response: MASK — Email address detected and anonymized
 {
   "user_id": "user_08",
   "input_id": "case_008",
-  "text": "Call me at 0312-3456789 anytime."
+  "text": "my number is 0312-3456789."
 }
 ```
 Response: MASK — PAK_PHONE detected and anonymized
