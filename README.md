@@ -118,7 +118,7 @@ saves accuracy, precision, recall, F1, and confusion matrix.
 
 **Step 1: Clone repository**
 ```
-git clone https://github.com/yourusername/llm-security-gateway-final
+git clone https://github.com/sadaf-iftikhar/llm-security-gateway-final
 cd llm-security-gateway-final
 ```
 
@@ -262,5 +262,5 @@ python tests/test_policy.py
 ---
 
 ## GitHub
-https://github.com/y/llm-security-gateway-final
+https://github.com/sadaf-iftikhar/llm-security-gateway-final
 ```
