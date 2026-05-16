@@ -1,5 +1,4 @@
 
-```markdown
 # LLM Security Gateway — Final
 ### CSC262 Artificial Intelligence | Lab Final
 **Instructor:** Tooba Tehreem | COMSATS University Islamabad, Wah Campus
